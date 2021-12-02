@@ -1,0 +1,4 @@
+Запрос на login - получаем токен User
+Запрос на makeMeAdmin - получаем токен Admin
+
+JWT
